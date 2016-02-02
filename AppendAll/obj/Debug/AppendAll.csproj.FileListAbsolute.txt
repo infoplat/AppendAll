@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\AppendAll\AppendAll\bin\Debug\AppendAll.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\AppendAll\AppendAll\bin\Debug\AppendAll.exe
+c:\users\admin\documents\visual studio 2013\Projects\AppendAll\AppendAll\bin\Debug\AppendAll.pdb
+c:\users\admin\documents\visual studio 2013\Projects\AppendAll\AppendAll\obj\Debug\AppendAll.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\AppendAll\AppendAll\obj\Debug\AppendAll.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\AppendAll\AppendAll\obj\Debug\AppendAll.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\AppendAll\AppendAll\obj\Debug\AppendAll.exe
+c:\users\admin\documents\visual studio 2013\Projects\AppendAll\AppendAll\obj\Debug\AppendAll.pdb
+c:\users\admin\documents\visual studio 2013\Projects\AppendAll\AppendAll\obj\Debug\AppendAll.appendall.resources
