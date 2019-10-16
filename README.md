@@ -9,6 +9,10 @@ Visual Studio 2005
 
 ![AppendAll截图](https://raw.githubusercontent.com/infoplat/AppendAll/master/AppendAll.jpg)
 
+## 下载地址
+
+Releases有编辑好的EXE文件，打包成了zip包。[点击下载](https://github.com/infoplat/AppendAll/releases/download/1.0/AppendAll.zip)
+
 ## 使用方法
 
 比如有下面一段SQL
