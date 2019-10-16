@@ -7,6 +7,7 @@ Visual Studio 2005
 
 ## 软件截图
 
+![AppendAll截图](https://raw.githubusercontent.com/infoplat/AppendAll/master/AppendAll.jpg)
 
 ## 使用方法
 
